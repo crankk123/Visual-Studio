@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MusikPlayer", "MusikPlayer\MusikPlayer.vbproj", "{72562C6D-EDE0-4981-807F-9123FC7F342E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rbk.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MusikPlayer\\MusikPlayer.vbproj
+		SccProjectName1 = MusikPlayer
+		SccLocalPath1 = MusikPlayer
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72562C6D-EDE0-4981-807F-9123FC7F342E}.Debug|x86.ActiveCfg = Debug|x86
+		{72562C6D-EDE0-4981-807F-9123FC7F342E}.Debug|x86.Build.0 = Debug|x86
+		{72562C6D-EDE0-4981-807F-9123FC7F342E}.Release|x86.ActiveCfg = Release|x86
+		{72562C6D-EDE0-4981-807F-9123FC7F342E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
